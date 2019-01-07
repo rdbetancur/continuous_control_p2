@@ -21,7 +21,7 @@ Agent Hyper Parameters
 	•	EPSILON_DECAY = 1e-6    # decay rate for noise process
 
 Performance and Plot of Rewards
-![Alt text](https://github.com/rubenbet/continuous_control_p2/blob/master/Results.png?raw=true "Results")
+![alt text](https://github.com/rubenbet/continuous_control_p2/blob/master/Results.png)
 [image1]:https://github.com/rubenbet/continuous_control_p2/blob/master/Results.png "Results"
 The Environment was solved in 86 episodes.
 
