@@ -32,7 +32,6 @@ conda create --name drlnd python=3.6
 activate drlnd
 
 
-
 2.	Follow the instructions in this repository to perform a minimal install of OpenAI gym: https://github.com/openai/gym 
 
 Next, install the classic control environment group.
@@ -49,11 +48,9 @@ cd deep-reinforcement-learning/python
 pip install .
 
 
-
 4.	Create an IPython kernel for the drlnd environment.
 
 python -m ipykernel install --user --name drlnd --display-name "drlnd"
-
 
 
 5.	Before running code in a notebook, change the kernel to match the drlnd environment by using the drop-down Kernel menu.
@@ -73,7 +70,7 @@ These are the steps that execute the Jupyter file:
 7. Test agent
 
 
-The project contains 8 files
+The project contains 8 files:
 
 Continuous_solution.ipynb: Jupyter Notebook
 
