@@ -26,6 +26,8 @@ Tanh is used in the final layer that maps states to actions. Batch normalization
 
 https://github.com/rubenbet/continuous_control_p2/blob/master/Results.png
 
+![alt text](https://github.com/rubenbet/continuous_control_p2/blob/master/Results.png)
+
 The Environment was solved in 86 episodes.
 
 Average Score Episode 20: 0.99
