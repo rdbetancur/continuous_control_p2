@@ -60,6 +60,8 @@ Running all the cells in the notebook (Continuous_solution.ipynb) will install i
 
 The Reacher file is a Unity environment that will be activated when running the Jupyter file and will be able to show the agent performing the challenge of the game.
 
+## Detail of files and project
+
 These are the steps that execute the Jupyter file:
 
 1. Import the Necessary Packages
